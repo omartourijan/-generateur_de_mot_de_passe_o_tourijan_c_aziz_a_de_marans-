@@ -1,1 +1,1 @@
-# -generateur_de_mot_de_passe_o_tourijan_c_aziz_a_de_marans-
+# generateur_de_mot_de_passe_o_tourijan_c_aziz_a_de_marans
